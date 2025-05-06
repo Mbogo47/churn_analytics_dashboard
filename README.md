@@ -14,7 +14,7 @@ The dashboard consists of three main sections:
 ## Process
 ### 1. Data Collection
 - Gathered customer transaction and support data from company databases.
-- Extracted and loaded data into a pandas DataFrame for preprocessing.
+
 
 ### 2. Data Cleaning & Preprocessing
 - Standardized customer information, subscription details, and service usage.
@@ -44,7 +44,6 @@ The dashboard consists of three main sections:
 - Shared insights through presentations and internal reports.
 
 ## Technologies Used
-- **Python**: Data preprocessing and analysis (pandas, numpy, datetime)
 - **Tableau**: Data visualization and dashboard creation
 - **Excel/CSV Databases**: Data sources
 
